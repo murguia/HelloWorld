@@ -1,7 +1,7 @@
 HelloWorld
 ==========
 
-HelloWorld part2 -- MASTER CHANGE  again
+HelloWorld part2 -- SECOND_CHANGE  again
 
 In Branch
 
